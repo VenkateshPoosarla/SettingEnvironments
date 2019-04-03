@@ -1,5 +1,3 @@
-# Settinng Environments
-
 # Setting Mac Developer Environment
   This installs brew on mac
   
