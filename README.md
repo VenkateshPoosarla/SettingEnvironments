@@ -9,5 +9,6 @@
     LDFLAGS="-L$(brew --prefix openssl)/lib" \
     pyenv install 3.6.6
     
+    
 ## REFERENCE
   https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c
